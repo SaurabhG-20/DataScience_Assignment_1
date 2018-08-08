@@ -14,3 +14,6 @@ in the the reverse order with a space between first name and last name.
 4. Write a Python program to find the volume of a sphere with diameter 12 cm.
 Formula: V=4/3 * π * r^3
 
+# Note :
+1. Please refer Screenshot directory for output of Screenshot 
+2. Please refer Sourcecode directory for Pyhton Sourcecode file
